@@ -22,13 +22,12 @@ farewell<Course Farewell and Certificates>` email message.
 To assign a final grade to each learner enrolled in a course, you generate
 grades after the **Course End Date** and **Time** have passed. See
 :ref:`Access_grades`.
- 
+
 The learner's final grade and the grading configuration you set in Studio are
 used to determine whether the learner has earned a certificate for the course.
 
 .. note:: You set up certificates when you are building your course. For more
   information, see :ref:`Setting Up Course Certificates`.
-
 
 ****************************************
 On-Demand Certificates
@@ -36,16 +35,15 @@ On-Demand Certificates
 
 If you have a self-paced course, you can allow your learners to download their
 certificates as soon as they have completed enough of the course with a high
-enough grade to qualify for a certificate. 
+enough grade to qualify for a certificate.
 
 Learners can request a certificate at any time after they qualify. Learners may
 want to request a certificate right away, or they may wait until they have
 completed the course. For more information, see `On-Demand Certificates
-<http://edx.readthedocs.org/projects/edx-guide-for-
-students/en/latest/SFD_certificates.html#on-demand-certificates>`_.
+<http://edx.readthedocs.org/projects/edx-guide-for-students/en/latest/SFD_certificates.html#on-demand-certificates>`_.
 
 If your course offers on-demand certificates, we encourage you to include this
-information on your course About page, on the **Course Info** page, and in
+information on your course **About** page, on the **Course Info** page, and in
 communication with your learners.
 
 .. only:: Partners

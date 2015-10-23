@@ -17,13 +17,13 @@ Overview
 .. only:: Partners
 
   Nearly every course on edx.org offers a certificate when you complete the
-  course successfully. 
+  course successfully.
 
   A certificate includes your name, the name of the course, and the edX partner
   university that created the course. Verified certificates also include the
   names of one or more members of the course team.
 
-  .. note:: 
+  .. note::
     A small number of edX courses do not offer certificates. For evidence that
     you completed the course, you can print a copy of the **Progress** page in
     the course.
@@ -41,7 +41,7 @@ Certificates and Your Name
 You must ensure that if you earn a certificate, it accurately displays your
 full name.
 
-Your certificate uses the full name that appears on your dashboard. 
+Your certificate uses the full name that appears on your dashboard.
 Before your course ends, make sure that the name on your dashboard is
 correct. For more information, see :ref:`SFD Basic Information`.
 
@@ -50,13 +50,13 @@ Certificates, Grades, and Credit
 =================================
 
 Certificate do not include grades or specify the number of credit hours
-that the course might earn at a university. 
+that the course might earn at a university.
 
 .. only:: Partners
 
 In addition, transcripts are not available for edX course work.
 
-  .. Note:: 
+  .. Note::
     Some edX courses offer academic credit. These courses have different
     requirements and steps for earning certificates. For more information, see
     :ref:`SFD Academic Course Credit Index`.
@@ -129,7 +129,7 @@ Certificate Types
     Verified certificates are available for a fee that varies by course. The
     fee helps support edX. If you want to donate to edX, you can choose to pay
     more than the minimum required fee. For more information about the fee for
-    a particular course, see the About page for that course.
+    a particular course, see the **About** page for that course.
 
     When you enroll in the verified certificate track for a course, you must
     submit a payment before you can see course content. You do not have to
@@ -137,7 +137,7 @@ Certificate Types
     before the deadline for verification in that course. For more information,
     see :ref:`SFD Verify Your Identity`.
 
-    .. note:: When you verify your identity for one course, you verify your 
+    .. note:: When you verify your identity for one course, you verify your
      identity for all edX courses. Verification is effective for one year. If
      you enroll in another verified course within that year, you do not have to
      verify your identity again.
@@ -258,15 +258,15 @@ Certificate** in the certificate header.
 To print your certificate in the most professional looking format, note the
 following guidelines.
 
-* Print the certificate in landscape orientation. 
+* Print the certificate in landscape orientation.
 
   To set landscape orientation in Firefox browsers, from the **File** menu,
   select **Page Setup**. Then select the landscape orientation icon and select
   **OK**.
 
-* Do not print the header or footer. 
+* Do not print the header or footer.
 
-* Set the margins to the minimum space available. 
+* Set the margins to the minimum space available.
 
 * Print background graphics.
 
@@ -320,10 +320,10 @@ complete any additional steps to obtain your certificate.
 Be aware, however, that different self-paced courses issue certificates at
 different intervals. Some courses issue certificates once a month, and others
 issue certificates less frequently. For more information about your course's
-specific certificate schedule, see the About page or the **Course Info** tab
-for your course.
+specific certificate schedule, see the course **About** page or the **Course
+Info** page.
 
-.. _SFD On Demand Certificates: 
+.. _SFD On Demand Certificates:
 
 ======================
 On-Demand Certificates
@@ -333,7 +333,7 @@ Some self-paced courses offer on-demand certificates. These certificates
 allow you to request and download your certificate as soon as you complete
 enough of the course with a high enough grade to qualify for a certificate.
 You do not have to wait until you finish the course. You can usually find out
-if a course offers on-demand certificates on the course About page.
+if a course offers on-demand certificates on the course **About** page.
 
 If a course offers on-demand certificates, as soon as you have qualified for a
 certificate, you see the following message at the top of the course
@@ -345,9 +345,9 @@ certificate, you see the following message at the top of the course
       you qualified for a certificate!"
 
 You can request your certificate at any time after you have qualified for the
-certificate. 
+certificate.
 
-.. Caution:: 
+.. Caution::
  The grade that you see on your dashboard reflects your grade at that time you
  requested the certificate. If you complete more assignments to raise your
  grade, the grade listed on your dashboard is not updated.
@@ -414,6 +414,6 @@ To receive your certificate at any time after you qualify, follow these steps.
        Backpack to share your badge.
 
        .. image:: ../../shared/students/Images/SFD_MozillaBackpackShareDialog.png
-        :width: 500 
+        :width: 500
         :alt: Dialog with instructions that opens when you select the Mozilla
             Backpack share icon.

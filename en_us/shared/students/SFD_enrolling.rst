@@ -4,12 +4,11 @@
 Enrolling in a Course
 ##############################
 
-
 To enroll in a course, follow these steps.
 
 #. On the edX home page, select the course that you want.
-#. When the About page for the course opens, select **Enroll Now** in the
-   upper right corner of the page.
+
+#. When the **About** page for the course opens, select **Enroll Now**.
 
   * If the course only offers honor code certificates, you are enrolled in
     the course after you select **Enroll Now**.
@@ -40,7 +39,7 @@ If you select **View Course** on your dashboard, the **Course Info** page for
 the course opens. If the course has already started, you can select the
 **Courseware** page to access released course materials.
 
-.. note:: Course instructors occasionally enroll learners directly in a 
+.. note:: Course instructors occasionally enroll learners directly in a
  course. If this is the case, you receive an email that contains a link to the
  course. Select the link to enroll in the course.
 
@@ -66,13 +65,13 @@ When you verify your identity for one course, you verify your identity for all
 edX courses. Verification is effective for one year. If you enroll in another
 verified course within that year, you do not have to verify your identity.
 
-.. note:: If you enroll in a course that offers academic credit, you might have 
- to verify your identity periodically during the course. For more information,
- see :ref:`SFD Academic Course Credit`.
+.. note:: If you enroll in a course that offers academic credit, you might
+ have to verify your identity periodically during the course. For more
+ information, see :ref:`SFD Academic Course Credit`.
 
 To verify your identity, follow these steps.
 
-.. note:: You must have a webcam and a government-issued photo ID to 
+.. note:: You must have a webcam and a government-issued photo ID to
  verify your identity.
 
 #. Start the verification process by completing one of the following actions.
@@ -82,7 +81,7 @@ To verify your identity, follow these steps.
      on the payment confirmation page.
 
    * If you enrolled in the course as an honor code learner, select **Upgrade
-     to Verified Track** next to the course on your dashboard.
+     to Verified Track** for the course on your dashboard.
 
    * If you enrolled as a verified learner and submitted payment but did not
      verify your identity, select **Verify Now** next to the course
@@ -112,7 +111,7 @@ To verify your identity, follow these steps.
    **Photo requirements**, and then select **Confirm** in the lower right
    corner.
 
-   .. important:: If your ID uses non-Roman characters, you must edit your edX 
+   .. important:: If your ID uses non-Roman characters, you must edit your edX
     account name in this step to use non-Roman characters so that your edX
     account name exactly matches the name on your ID. To do this, select
     **Edit Your Name** in the list of requirements, and then enter your name

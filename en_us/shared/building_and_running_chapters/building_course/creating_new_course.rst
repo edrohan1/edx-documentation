@@ -20,7 +20,7 @@ You can do this when you need to edit the course in XML.
 .. _edXorg: http://edx.org
 
 .. _Create a New Course:
-  
+
 *******************
 Create a New Course
 *******************
@@ -35,7 +35,7 @@ Create a New Course
    Help site (http://help.edge.edx.org). Additionally, because this information
    becomes part of your course URL, the total number of characters in the
    following four fields must be 65 or fewer.
-   
+
   .. image:: ../../../shared/building_and_running_chapters/Images/new_course_info.png
      :width: 600
      :alt: Image of the course creation page in Studio.
@@ -85,7 +85,7 @@ team privileges.
 .. image:: ../../../shared/building_and_running_chapters/Images/open_course.png
   :width: 600
   :alt: Image of the course on the Studio dashboard
- 
+
 To open a course, select the course name. The Studio **Course Outline** page
 appears.
 
@@ -98,7 +98,7 @@ Use the Course Checklist
 You can use a Course Checklist within Studio to help you work through the tasks
 of building a course.
 
-Categories of tasks in the Course Checklist include:
+Tasks in the Course Checklist are organized into the following categories.
 
 * Getting Started with Studio
 * Draft a Rough Course Outline
@@ -109,13 +109,13 @@ From the **Tools** menu, select **Checklists**.
 
 .. image:: ../../../shared/building_and_running_chapters/Images/checklist.png
   :width: 600
-  :alt: Image of the course checklist in Studio.
+  :alt: Image of the Getting Started with Studio checklist in Studio.
 
-As shown in the example above, for the **Add Course Team Members** task, if you
-hover over a task, a button is displayed that takes you to the page to complete
-that task.
+As shown in this example for the **Add Course Team Members** task, when you
+move your cursor over a task, an option appears that you can select to go to
+the page where you can complete that task.
 
-You can expand and collapse sections of the checklist as needed.
+You can expand and collapse the checklist categories as needed.
 
 You can check tasks as you complete them. Studio saves your changes
 automatically. Other members of the course team can see your changes.
@@ -144,15 +144,15 @@ adding and removing other team members and granting Admin access.
 .. note::  Any course team member can delete content created by other team
  members.
 
-To add a course team member:
+To add a course team member, follow these steps.
 
 #. Ensure you have Admin access.
 #. Ensure that the new team member has registered and activated an account.
 #. In Studio, from the **Settings** menu, select **Course Team**.
 #. Select **Add a New Team Member**.
-#. Enter the new team member's email address, then select **ADD USER**. 
+#. Enter the new team member's email address, then select **ADD USER**.
 
-The new team member can now work on the course in Studio. 
+The new team member can now work on the course in Studio.
 
 * To preview the course in the LMS, the team member must enroll in the course.
 
