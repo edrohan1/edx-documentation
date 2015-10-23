@@ -33,6 +33,7 @@
 .. _Announcements: https://open.edx.org/announcements
 
 
+.. _edX Partner Support: https://partners.edx.org/edx_zendesk
 
 .. _edX pattern library: http://ux.edx.org/elements/colors/
 

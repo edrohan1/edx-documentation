@@ -1,73 +1,80 @@
 .. _Creating a New Course:
 
 ###########################
-Creating a New Course
+Creating a Course
 ###########################
 
-This topic describes how to create and set up your course with Studio.
+This topic describes how to create a course with Studio.
 
-.. contents:: Section Contents
+.. contents::
   :local:
   :depth: 1
 
-Another way to create a course is to re-run an existing course. See
-:ref:`Rerun a Course`.
+Another way to create a course is to re-run an existing course. For more
+information, see :ref:`Rerun a Course`.
 
-You can also :ref:`Export a Course` and :ref:`Import a Course` through Studio.
-You can do this when you need to edit the course in XML.
+You can also :ref:`export<Export a Course>` and :ref:`import<Import a Course>`
+courses as XML files. You can do this when you need to back up a course or edit
+the course in XML.
 
-.. _Edge: http://edge.edx.org
-.. _edXorg: http://edx.org
+**************************
+Identifying the Course
+**************************
+
+Before you create a course, consider the identifying information that you
+provide for it carefully.
+
+* For **Course Name**, you enter the title of your course. For example, the
+  name might be "Sets, Maps, and Symmetry Groups". Use title capitalization for
+  the course title, and normal spacing and punctuation.
+
+* For **Organization**, you enter the identifier for your organization. Do not
+  include spaces or special characters.
+
+* For **Course Number**, you enter both a subject abbreviation and a number.
+  For example, for public health course number 207, enter ``PH207``. For math
+  course 101x, enter ``Math101x``. Do not include spaces or special characters
+  in the course number.
+
+  .. note:: If your course will be public, be sure to include the "x".
+      If it is exclusively an on campus offering, do not include the "x".
+
+* For **Course Run**, you enter the term in which your course will run. For
+  example, enter 2014SOND or T2_2014. Do not include spaces or special
+  characters.
+
+  The value that you enter for the run does not affect the course start date
+  that you define for the course. For more information, see :ref:`Scheduling
+  Your Course`.
+
+The organization, course number, and course run values that you enter are used
+to create the URL for your course. Because URLs do not have an unlimited
+length, the total number of characters that you enter for these values must be
+65 or fewer.
+
+.. note:: To change the course URL of a course on edx.org or edX Edge,
+   you must contact `edX Partner Support`_.
 
 .. _Create a New Course:
-  
+
 *******************
-Create a New Course
+Create a Course
 *******************
 
-#. Log in to Studio.
+To create a course, follow these steps.
+
+#. Sign in to Studio.
+
 #. Select **New Course**.
-#. Enter course information as needed and select **Create**.
 
-  .. note::  Enter new course information carefully. This information becomes
-   part of the URL for your course. For courses on edx.org and edX Edge, to
-   change the URL after the course is created, you must contact edX through the
-   Help site (http://help.edge.edx.org). Additionally, because this information
-   becomes part of your course URL, the total number of characters in the
-   following four fields must be 65 or fewer.
-   
+#. Enter the identifying course information, and then select **Create**.
+
   .. image:: ../../../shared/building_and_running_chapters/Images/new_course_info.png
      :width: 600
      :alt: Image of the course creation page in Studio.
 
-  * For **Course Name**, enter the title of your course. For example, the name
-    may be "Sets, Maps, and Symmetry Groups". Use title capitalization for the
-    course title.
-
-  * For **Organization**, enter the identifier for your organization. Do not
-    include spaces or special characters.
-
-
-  * For **Course Number**, enter both a subject abbreviation and a number. For
-    example, for public health course number 207, enter **PH207**. For math
-    course 101x, enter **Math101x**. Do not include spaces or special
-    characters in the course number.
-
-    .. note:: If your course will be open to the world, be sure to include the
-      "x". If it is exclusively an on-campus offering, do not include the "x".*
-
-  * For **Course Run**, enter the term in which your course will run. For
-    example, enter 2014SOND or T2_2014. Do not include spaces or special
-    characters.
-
-    The value that you enter for the run does not affect the course start date
-    that you define for the course. For more information, see :ref:`Scheduling
-    Your Course`.
-
-
-4. Select **Save.**
-
-You then see the empty course outline.
+4. Select **Save**. The :ref:`Course Outline<Developing Your Course Outline>`
+   page opens.
 
 .. _Edit Your Course:
 
@@ -85,7 +92,7 @@ team privileges.
 .. image:: ../../../shared/building_and_running_chapters/Images/open_course.png
   :width: 600
   :alt: Image of the course on the Studio dashboard
- 
+
 To open a course, select the course name. The Studio **Course Outline** page
 appears.
 
@@ -150,9 +157,9 @@ To add a course team member:
 #. Ensure that the new team member has registered and activated an account.
 #. In Studio, from the **Settings** menu, select **Course Team**.
 #. Select **Add a New Team Member**.
-#. Enter the new team member's email address, then select **ADD USER**. 
+#. Enter the new team member's email address, then select **ADD USER**.
 
-The new team member can now work on the course in Studio. 
+The new team member can now work on the course in Studio.
 
 * To preview the course in the LMS, the team member must enroll in the course.
 
@@ -172,3 +179,7 @@ moderate and manage its discussions by assigning other LMS roles. The beta
 testers and discussion administrators must be enrolled in your course, but
 they do not need to have Staff or Admin access. For more information, see
 :ref:`Beta_Testing` and :ref:`Assigning_discussion_roles`.
+
+
+.. include:: ../../../links/links.rst
+
