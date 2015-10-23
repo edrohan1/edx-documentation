@@ -215,3 +215,4 @@ shown. For a course that has ended, the course end date is shown.
  On the `edx.org`_ website these pages present the same information, but are
  styled differently.
 
+.. include:: ../../../links/links.rst
