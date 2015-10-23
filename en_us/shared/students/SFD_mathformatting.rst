@@ -1,29 +1,40 @@
 .. _Math Formatting:
 
-#####################################################################
+################################################
 Entering Mathematical and Scientific Expressions
-#####################################################################
+################################################
 
-For some math, science, and other problems, you'll enter a numerical or math
-expression, such as a formula, into a response field. You enter your response as
-plain text, and the edX system then converts your text into numbers and symbols
-that appear below the response field.
+This topic describes how to enter mathematical and scientific expressions for
+problems in your edX course.
+
+.. contents::
+  :local:
+  :depth: 1
+
+********************************************************
+Overview of Mathematical and Scientific Expressions
+********************************************************
+
+For some math, science, and other problems, you must enter a numerical or math
+expression, such as a formula, into a response field. You enter your response
+as plain text, and the edX system then converts your text into numbers and
+symbols that appear below the response field.
 
 .. image:: ../../shared/students/Images/Math5.png
  :width: 150
- :alt: Image of a numerical input probem rendered by the parser
+ :alt: Image of a numerical input probem rendered by the parser.
 .. image:: ../../shared/students/Images/Math3.png
  :width: 150
- :alt: Image of a numerical input probem rendered by the parser
+ :alt: Image of a numerical input probem rendered by the parser.
 .. image:: ../../shared/students/Images/Math2.png
  :width: 150
- :alt: Image of a numerical input probem rendered by the parser
+ :alt: Image of a numerical input probem rendered by the parser.
 .. image:: ../../shared/students/Images/Math1.png
  :width: 150
- :alt: Image of a numerical input probem rendered by the parser
+ :alt: Image of a numerical input probem rendered by the parser.
 .. image:: ../../shared/students/Images/Math4.png
  :width: 150
- :alt: Image of a numerical input probem rendered by the parser
+ :alt: Image of a numerical input probem rendered by the parser.
 
 Additionally, some edX courses offer a calculator tool that you can use while
 you work through the course. If the course has a calculator, the calculator
@@ -31,14 +42,14 @@ appears as a small icon on all courseware pages.
 
 .. image:: ../../shared/building_and_running_chapters/Images/Calc_Closed.png
   :width: 600
-  :alt: Courseware page with an arrow pointing to the calculator
+  :alt: Courseware page with an arrow pointing to the calculator.
 
-To use the calculator, select the calculator icon. To close the calculator, select the X just above the
-calculator.
+To use the calculator, select the calculator icon. To close the calculator,
+select the X just above the calculator.
 
 .. image:: ../../shared/building_and_running_chapters/Images/Calc_Open.png
   :width: 600
-  :alt: Courseware page with the calculator visible along the edge of the browser
+  :alt: Courseware page with the calculator visible along the edge of the browser.
 
 ****************************
 Entering Math Expressions
@@ -56,7 +67,7 @@ system if you have used math programs before.
 
   .. image:: ../../shared/building_and_running_chapters/Images/Calc_Open_InfoPage.png
     :width: 600
-    :alt: Courseware page with the calculator visible and showing the information page
+    :alt: Courseware page with the calculator visible and showing the information page.
 
 When you enter your plain text into the calculator or the response field,
 follow these guidelines.
@@ -219,7 +230,6 @@ You can use several different constants in your mathematical expressions.
 
 .. Should I include another example in the note?
 
-
 .. list-table::
   :widths: 10 60
   :header-rows: 1
@@ -343,3 +353,5 @@ You can use the following functions:
 * A "parallel resistors" operator (``||``). For example, ``1 || 2`` represents
   the resistance of a pair of parallel resistors (of resistance 1 and 2 ohms),
   evaluating to 2/3 (ohms).
+
+.. include:: ../../links/links.rst

@@ -4,6 +4,16 @@
 Notes
 ##############################
 
+This topic describes how to work with notes in your edX course.
+
+.. contents:: 
+  :local: 
+  :depth: 1
+
+******************
+Overview of Notes
+******************
+
 As you work through an edX course, you may want to highlight a particular
 passage or make a note about what you have read. In some edX courses, you can
 highlight passages and make notes right in the courseware. 
@@ -11,22 +21,6 @@ highlight passages and make notes right in the courseware.
 .. note:: You can create notes for most text in the courseware. 
  However, notes are currently not available for exercises, videos, or PDF
  textbooks.
-
-For more information about working with notes, see the following sections.
-
-.. contents:: Section Contents
-  :local: 
-  :depth: 1
-
-.. note:: You can use either the mouse or keyboard shortcuts to create, 
- access, and delete notes. For more information about using keyboard
- shortcuts, see :ref:`SFD SN Keyboard Shortcuts`.
-
-.. _SFD SN Introduction:
-
-***************************
-Introduction
-*************************** 
 
 When a course includes the notes feature, every page has a **Notes** page at
 the top and a pencil icon in the lower right corner.
@@ -48,6 +42,10 @@ see all of your notes at once on the **Notes** page. For more information, see
 ******************************************
 Highlight a Passage or Add a Note
 ******************************************
+
+You can use either the mouse or keyboard shortcuts to create, access, and
+delete notes. For more information about using keyboard shortcuts, see
+:ref:`SFD SN Keyboard Shortcuts`.
 
 To highlight a passage or add a note that includes text and tags, follow these
 steps.
@@ -85,7 +83,7 @@ steps.
       :width: 400
       :alt: Note editor open with a learner's note.
 
-3. After you finish writing your note and adding tags, select **Save** or
+#. After you finish writing your note and adding tags, select **Save** or
    press Enter. The note editor closes, and the text that you selected remains
    highlighted.
 
@@ -103,8 +101,8 @@ You can view your course notes in two places.
   highlighted text, your note remains open until you move outside the
   highlighted text.
 
-* You can view all the notes you have made in the course on the **Notes** page. You
-  can also search your notes on this page.
+* You can view all the notes you have made in the course on the **Notes** page.
+  You can also search your notes on this page.
 
 .. _The Notes Page:
 
@@ -112,8 +110,8 @@ You can view your course notes in two places.
 The Notes Page
 ================
 
-On the **Notes** page, you can see all the notes you have made in your course in
-one place. You can also search the text of your notes.
+On the **Notes** page, you can see all the notes you have made in your course
+in one place. You can also search the text of your notes.
 
 .. image:: ../../shared/students/Images/SFD_SN_NotesPage.png
   :width: 500
@@ -157,8 +155,8 @@ Edit or Delete a Note or Highlight
 
 To edit a note, follow these steps.
 
-#. In the courseware, move your cursor over the highlighted text until your note
-   appears.
+#. In the courseware, move your cursor over the highlighted text until your
+   note appears.
 #. When the note appears, select the pencil icon in the upper right corner to
    open the note editor.
 
@@ -266,3 +264,5 @@ To edit or delete a note, follow these steps.
    then press Enter.
 
 To close the note editor without making any changes, press Esc.
+
+.. include:: ../../links/links.rst

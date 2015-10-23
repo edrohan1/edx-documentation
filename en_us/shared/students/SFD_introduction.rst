@@ -4,13 +4,13 @@
 Introduction
 #################
 
-Welcome to edX! We're glad you're taking a course with us and we hope you're as 
+Welcome to edX! We're glad you're taking a course with us and we hope you're as
 excited as we are about online learning.
 
 The purpose of this guide is to help with your transition to online learning.
 The guide answers common questions about topics like earning certificates,
-getting started, participating in course discussions, and completing some of the
-exercises you may see in your course.
+getting started, participating in course discussions, and completing some of
+the exercises you may see in your course.
 
 For more information, see the following topics.
 
@@ -42,9 +42,8 @@ For more information, see the following topics.
   respond to a post, and comment on another student's response.
 * :ref:`SFD Wiki` - Covers information about an edX course wiki.
 
-
 This guide is still under development, and we encourage you to submit feedback
-to `docs@edx.org <mailto://docs@edx.org>`_.
+to `docs@edx.org`_.
 
 
 .. _Time Zones:
@@ -60,7 +59,8 @@ see a time in your course, we recommend that you use a time zone converter to
 convert the UTC time to your local time. You can use any converter that you
 want, including one of the following time zone converters.
 
-`Time and Date Time Zone Converter <http://www.timeanddate.com/worldclock/converter.html>`_
+* `Time and Date Time Zone Converter`_
 
-`Time Zone Converter <http://www.timezoneconverter.com/cgi-bin/tzc.tzc>`_
+* `Time Zone Converter`_
 
+.. include:: ../../links/links.rst

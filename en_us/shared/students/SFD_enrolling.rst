@@ -4,6 +4,15 @@
 Enrolling in a Course
 ##############################
 
+This topic describes how to enroll and verify your identity in an edX course.
+
+.. contents:: 
+  :local: 
+  :depth: 1
+
+******************************
+Enroll in a Course
+******************************
 
 To enroll in a course, follow these steps.
 
@@ -66,7 +75,7 @@ When you verify your identity for one course, you verify your identity for all
 edX courses. Verification is effective for one year. If you enroll in another
 verified course within that year, you do not have to verify your identity.
 
-.. note:: If you enroll in a course that offers academic credit, you might have 
+.. note:: If you enroll in a course that offers academic credit, you might have
  to verify your identity periodically during the course. For more information,
  see :ref:`SFD Academic Course Credit`.
 

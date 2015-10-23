@@ -4,6 +4,17 @@
 Online Proctoring Rules for Learners
 ####################################
 
+This topic describes the procotoring rules for learners taking an edX course
+for credit.
+
+.. contents:: 
+  :local:
+  :depth: 1
+
+******************************
+Overview of Online Proctoring
+******************************
+
 EdX.org uses an online proctoring service for certain exams (typically final
 exams) that are part of courses that can be made eligible for credit. Students
 who take proctored exams for credit are required to adhere to the following
@@ -11,9 +22,9 @@ rules to receive a **Satisfactory** result from the proctoring service.
 
 Students should test their systems with the proctoring software well in advance
 of any actual graded proctored exams in their courses, so that any
-troubleshooting that is required can be accomplished. Students can take practice
-proctored exams in their course, so that they can experience the steps to set up
-the proctoring software as well as an example proctored exam.
+troubleshooting that is required can be accomplished. Students can take
+practice proctored exams in their course, so that they can experience the steps
+to set up the proctoring software as well as an example proctored exam.
 
 As with other ID-verified assessments and exams, students will be asked to
 establish their identity during the proctored exam process by supplying a
@@ -135,8 +146,3 @@ passing grade.
 
 If you have questions about your proctoring exam status, go to http://edx.org
 to contact edX Support, or consult your course team.
-
-
-
-
-

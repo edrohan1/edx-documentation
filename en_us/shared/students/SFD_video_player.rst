@@ -51,7 +51,7 @@ by an explanation of each option or control on the video player.
     you can select the license to open a web site with more information about
     your rights. For more information, see :ref:`Course and Video Licenses`.
 
-For a demonstration of the edX video player, see `Videos on edX
-<https://courses.edx.org/courses/edX/DemoX.1/2014/courseware/0af8db2309474971b
-fa70cda98668a30/ec 3364075f2845baa625bfecd5970410/2>`_ in the `edX DemoX course
-<https://www.edx.org/course/edx/edx-demox-1-demox-4116#.VF0M3_TF-2w>`_.
+For a demonstration of the edX video player, see `Videos on edX`_ in the edX
+DemoX course.
+
+.. include:: ../../links/links.rst

@@ -38,4 +38,7 @@ that are set for the wiki.
 The wiki for each course is a "child" wiki of the edX-wide wiki. From within
 any course wiki, clicking the top level **Wiki** link in the breadcrumb trail
 in the upper-left corner of the page takes you to the edX-wide wiki. To get
-back to your course wiki, click the **Wiki** tab at the top of the page.
+back to your course wiki, select the **Wiki** tab at the top of the page.
+
+.. include:: ../../links/links.rst
+

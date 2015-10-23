@@ -4,7 +4,7 @@
 Proctored Exams
 ##############################
 
-This section describes how proctored exams work, requirements for the
+This topic describes how proctored exams work, requirements for the
 proctoring software, and steps involved in taking proctored exams.
 
 .. contents::
@@ -558,12 +558,12 @@ To take a proctored exam, follow these steps.
 
 #. In the courseware, open the proctored exam.
 
-  .. image:: /Images/Proctoring_ChooseProctoring.png
-   :width: 600
-   :alt: Verified track learners can choose whether to take the proctored exam
+   .. image:: /Images/Proctoring_ChooseProctoring.png
+    :width: 600
+    :alt: Verified track learners can choose whether to take the proctored exam
        with proctoring or not.
 
-2. On the page where you agree to or decline taking the exam with online
+#. On the page where you agree to or decline taking the exam with online
    proctoring, select **Yes, I want to take this exam with online
    proctoring**.
 
@@ -604,8 +604,8 @@ To take a proctored exam, follow these steps.
 
    .. image:: /Images/Proctoring_StartMyExam.png
     :width: 600
-    :alt: The "Start my exam" button is available on the edX exam page after you
-         have finished setting up the proctoring software.
+    :alt: The "Start my exam" button is available on the edX exam page after
+        you have finished setting up the proctoring software.
 
 #. Start answering your exam questions. The timer at the upper right of the
    courseware page shows the time that you have remaining in the exam.
@@ -633,8 +633,8 @@ To take a proctored exam, follow these steps.
 
    The data from your proctoring session is uploaded.
 
-   .. important:: Do not close the upload window until you see that the upload has
-      finished.
+   .. important:: Do not close the upload window until you see that the upload
+     has finished.
 
    .. image:: /Images/Proctoring_SS_DataUploadComplete.png
     :width: 400
@@ -797,4 +797,3 @@ For more information about academic course credit, see :ref:`SFD Academic
 Course Credit`.
 
 .. include:: ../../../links/links.rst
-

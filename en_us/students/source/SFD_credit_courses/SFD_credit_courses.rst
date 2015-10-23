@@ -4,6 +4,16 @@
 Academic Course Credit
 #########################
 
+This topic describes taking an edX course for academic credit.
+
+.. contents:: 
+  :local:
+  :depth: 1
+
+******************************
+Overview of Academic Credit
+******************************
+
 Some edX courses allow you to purchase academic credit that you can apply
 toward a degree at a college or university. When a course offers academic
 credit, you see an "Earn Credit" indication for the course in the edX list of
@@ -18,11 +28,6 @@ verifying your identity several times during your course or taking proctored
 exams. After you meet the requirements, you can purchase academic credit for a
 specific time after the course ends (usually one year).
 
-For more information, see the following sections.
-
-.. contents:: 
-  :local:
-  :depth: 1
 
 *****************************
 Enroll for Academic Credit
@@ -32,6 +37,7 @@ To receive academic credit for a course, you must enroll in the verified track
 for the course. 
 
 For more information about enrolling, see :ref:`SFD Enrolling in a Course`.
+
 
 *****************************
 Complete Identity Checks
@@ -121,4 +127,3 @@ email that indicates whether you have received academic credit for the course.
 
 If you do not receive credit for the course, contact the organization that
 issues the credit directly.
-
