@@ -10,11 +10,12 @@ You create a course policy file to specify metadata about your course.
 Create the Course Policy File
 *******************************
 
-You define policies for your course in the ``policy.json`` file. 
+You define policies for your course in the ``policy.json`` file.
 
-Save the ``policy.json`` file in the ``policy/<course-name>`` directory. 
+Save the ``policy.json`` file in the ``policy/<course-name>`` directory.
 
-The ``<course-name>`` directory  must match the value of the ``url_name`` attribute in the ``course.xml`` file.
+The ``<course-name>`` directory  must match the value of the ``url_name``
+attribute in the ``course.xml`` file.
 
 
 ************************************
@@ -31,9 +32,12 @@ Course Policy JSON Objects
        - The start date displayed in the course listing and course about pages.
          For example: ``"2012-09-05T12:00``.
      * - ``disable_policy_graph``
-       - Whether the policy graph should be disabled (``true``) or not (``false)``.  SUPORTED?
+       - Whether the policy graph should be disabled (``true``) or not
+         (``false)``.
      * - ``enrollment_start``, ``enrollment_end``
-       - The dates in which students can enroll in the course. For example, ``"2012-09-05T12:00"``. If not specified, students can enroll any time. 
+       - The dates in which students can enroll in the course. For example,
+         ``"2012-09-05T12:00"``. If not specified, students can enroll any
+         time.
      * - ``end``
        - The end date for the course.  For example: ``"2012-11-05T12:00"``.
      * - ``end_of_course_survey_url``
@@ -41,9 +45,16 @@ Course Policy JSON Objects
      * - ``tabs``
        - Custom pages, or tabs, in the courseware.  See below for details.
      * - ``discussion_blackouts``
-       - An array of time intervals during which students cannot create or edit discussion posts. Moderators, Community TAs, and Administrators are not restricted by these dates. For example, you could specify blackout dates during exams. For example: ``[[""2012-10-29T04:00", "2012-11-03T04:00"], ["2012-12-30T04:00", "2013-01-02T04:00"]]``. Moderators, Community TAs, and Administrators are not restricted during blackout periods.
+       - An array of time intervals during which students cannot create or edit
+         discussion posts. Moderators, Community TAs, and Administrators are
+         not restricted by these dates. For example, you could specify blackout
+         dates during exams. For example: ``[[""2012-10-29T04:00",
+         "2012-11-03T04:00"], ["2012-12-30T04:00", "2013-01-02T04:00"]]``.
+         Moderators, Community TAs, and Administrators are not restricted
+         during blackout periods.
      * - ``show_calculator``
-       - Whether the calculator is shown in the course (``true``) or not (``false)``.
+       - Whether the calculator is shown in the course (``true``) or not
+         (``false)``.
      * - ``days_early_for_beta``
        - The number of days early that students in the beta-testers group can
          access the course.
@@ -67,6 +78,8 @@ Course Policy JSON Objects
        - have html-based textbooks on tabs in the courseware.  See below for
          details.
 
+.. disable_policy_graph above had "SUPORTED?" after it, moved to this comment 26 Oct 2015 - Alison
+
 *******************************
 Example Course Policy File
 *******************************
@@ -76,15 +89,15 @@ Example Course Policy File
     {
       "course/2014":
           {
-	          "tabs": [{"type": "courseware", "name": "Courseware"}, 
-	                   {"type": "course_info", "name": "Course Info"}, 
-	                   {"type": "discussion", "name": "Discussion"}, 
-	                   {"type": "wiki", "name": "Wiki"}, 
+	          "tabs": [{"type": "courseware", "name": "Courseware"},
+	                   {"type": "course_info", "name": "Course Info"},
+	                   {"type": "discussion", "name": "Discussion"},
+	                   {"type": "wiki", "name": "Wiki"},
 	                   {"type": "progress", "name": "Progress"}],
-	
+
 	           "display_name": "edX Demonstration Course",
-	           "discussion_topics": {"General": {"id": "i4x-General-course-2014"}}
-               
+	           "discussion_topics": {"General": {"id": "course"}}
+
                    "user_partitions": [{"id": 0,
                                         "name": "Two Groups",
                                         "description": "For 2-group experiments.",
