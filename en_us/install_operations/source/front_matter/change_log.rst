@@ -8,6 +8,8 @@ Change Log
 
    * - Date
      - Change
+   * - 27 October 2015
+     - Added the :ref:`Installing an XBlock` topic.
    * - 26 October 2015
      - Added the :ref:`Using Elastic MapReduce on AWS` topic.
    * - 23 October 2015
