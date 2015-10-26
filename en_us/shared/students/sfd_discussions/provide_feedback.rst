@@ -56,14 +56,14 @@ Vote for Posts or Responses
 ************************************
 
 If you like a post or one of its responses, you can vote for it. Hover over the
-plus sign (+) icon for the post or response, and then click **Vote**.
+plus sign (+) icon for the post or response, and then select **Vote**.
 
 .. image:: ../../../shared/students/Images/Disc_Vote.png
  :width: 500
  :alt: A post with the Vote icon circled.
 
 You can sort the list of posts so that the posts with the most votes appear at
-the top: click the drop-down list of sorting options and select **by most
+the top: select the drop-down list of sorting options and select **by most
 votes**.
 
 .. image:: ../../../shared/students/Images/Disc_SortByVotes.png
@@ -82,7 +82,7 @@ Follow Posts
 
 If you find a post particularly interesting and want to return to it in the
 future, you can follow it. To follow a post, hover over the star icon for the
-post, and then click **Follow**.
+post, and then select **Follow**.
 
 .. image:: ../../../shared/students/Images/Discussion_follow.png
  :width: 500
@@ -92,7 +92,7 @@ Each post that you follow appears with a "Following" indicator in the list of
 posts.
 
 To list only the posts that you are following, regardless of the discussion
-topic they apply to, click the drop-down Discussion list and select **Posts I'm
+topic they apply to, select the drop-down Discussion list and select **Posts I'm
 Following**.
 
 .. image:: ../../../shared/students/Images/Disc_Following.png
@@ -111,7 +111,7 @@ to the question post.
 
 You can indicate that a response to your own question post is the correct
 answer. To do this, hover over the check mark icon for the response, and then
-click **Mark as Answer**.
+select **Mark as Answer**.
 
 .. image:: ../../../shared/students/Images/Disc_AnswerQuestion.png
  :width: 500

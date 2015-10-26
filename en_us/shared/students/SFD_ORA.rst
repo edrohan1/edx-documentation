@@ -92,9 +92,9 @@ response must cover.
   paper, with text single-spaced).
 
 For each question, type your response into the field under **Your Response**.
-When you have completed responses for all the questions, click **Submit your
+When you have completed responses for all the questions, select **Submit your
 response and move to the next step**. If you don't want to finish your response
-all at once, you can click **Save Your Progress** to save a draft of your
+all at once, you can select **Save Your Progress** to save a draft of your
 responses, and then come back and submit them later.
 
 After you submit your responses, if other students have already submitted
@@ -114,10 +114,10 @@ message.
   steps, and after your peers have assessed your response.
 
 Note that you can view your own responses at any time after you submit them. To
-do this, for the response you want to view, click the **Your Response** heading
-to expand the response field. You'll see your response, the status of your
-response, and information about additional steps you have to complete before
-you receive your grade.
+do this, for the response you want to view, select the **Your Response**
+heading to expand the response field. You'll see your response, the status of
+your response, and information about additional steps you have to complete
+before you receive your grade.
 
 .. image:: ../../shared/students/Images/PA_S_ReviewResponse.png
    :alt: Image of the Response field collapsed and then expanded.
@@ -137,14 +137,17 @@ any text.
    than 5 MB in size.
 
 .. image:: ../../shared/students/Images/PA_Upload_ChooseFile.png 
-   :alt: Open response assessment example with Choose File and Upload Your Image buttons circled.
+   :alt: Open response assessment example with Choose File and Upload Your
+       Image buttons circled.
    :width: 500
 
 To upload your image, complete these steps.
 
 #. Select **Choose File**.
+
 #. In the dialog box that opens, select the file that you want, and then select
    **Open**.
+
 #. When the dialog box closes, select **Upload Your Image**.
 
 Your image appears below the response field, and the name of the image file
@@ -241,7 +244,7 @@ provide comments about the student's responses.
        :width: 600
 
 After you have selected options in the rubric and provided additional comments
-about the responses, click **Submit your assessment and move to response
+about the responses, select **Submit your assessment and move to response
 #<number>**.
 
 When you submit your assessment of the first student's responses, another set
@@ -277,7 +280,7 @@ Assess Your Response
 
 When you have completed the required number of peer assessments, your self
 assessment opens. You see your responses along with the same rubric that you
-used in the peer assessment step. Assess your responses, then click **Submit
+used in the peer assessment step. Assess your responses, then select **Submit
 Your Assessment**.
 
 ==========================================
@@ -315,7 +318,7 @@ Assess Additional Peer Responses (optional)
 =================================================
 
 If you have assessed the required number of peer responses and completed your
-self assessment, you can assess additional peer responses. To do this, click
+self assessment, you can assess additional peer responses. To do this, select
 the **Assess Peers** heading. If any responses remain to be assessed, a new
 response opens.
 

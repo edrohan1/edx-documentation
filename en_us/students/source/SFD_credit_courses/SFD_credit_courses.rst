@@ -56,8 +56,7 @@ reverification inside the course and proctored exams.
   similar to the way you verified your identity at the beginning of the
   course. You must use a computer that has a webcam to reverify your identity.
 
-  For more information, see :ref:`SFD In Course Identity
-  Reverification`.
+  For more information, see :ref:`SFD In Course Identity Reverification`.
 
 * Proctored exams are exams that use both time limits and online proctoring
   software. To pass a proctored exam, you must receive both a passing grade
@@ -109,12 +108,10 @@ To purchase academic credit, follow these steps.
    purchase credit from appears, and then select **Checkout** or **Checkout
    with PayPal**.
 
-.. Yes, I know the last two instances of "Checkout" should be "Check Out".
-.. Long story.
-
-3. Follow the instructions to complete the payment process. When the payment
+#. Follow the instructions to complete the payment process. When the payment
    process is complete, a confirmation page opens, and you receive an email
    message.
+
 #. On the payment confirmation page, a notification informs you if the
    organization requires you to complete additional steps to receive credit.
    If the organization has additional requirements, select **Complete Credit**

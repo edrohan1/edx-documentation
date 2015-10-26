@@ -77,11 +77,11 @@ Add a Post on the Discussion Page
 You can add a post for course-wide or content-specific discussion
 topics on the **Discussion** page.
 
-#. Click the **Discussion** page.
+#. Select the **Discussion** page.
 
-#. In the upper-right corner, click **New Post**.
+#. In the upper-right corner, select **New Post**.
 
-#. Click **Question** or **Discussion** to select the type of post that you
+#. Select **Question** or **Discussion** to select the type of post that you
    want to create.
 
 #. Select the most appropriate discussion topic for your post.
@@ -95,7 +95,7 @@ topics on the **Discussion** page.
    **Discussion** page or scrolling through one of the content-specific topics.
 
 #. Enter the complete text of your post. To format the text or add links or
-   images, click the buttons above the text field.
+   images, select the buttons above the text field.
 
 In a few courses, you can add posts, responses, and comments anonymously. If
 this is the case, you'll see a **Post Anonymously** check box under the field
@@ -137,8 +137,8 @@ to content-specific discussions.
    the **Discussion** page or scrolling through one of the content-specific
    topics.
 
-#. Enter the complete text of your post. Click the buttons above the text field
-   to see options for formatting the text and for adding links or images.
+#. Enter the complete text of your post. Select the buttons above the text
+   field to see options for formatting the text and for adding links or images.
 
 In a few courses, you can add posts, responses, and comments anonymously. If
 this is the case, you'll see a **Post Anonymously** check box under the field
@@ -173,16 +173,16 @@ topics on the **Discussion** page.
 
 #. Add a response or comment.
 
- - To add a response to the post, select **Add A Response**. When your response
-   is complete, select **Submit**.
+   * To add a response to the post, select **Add A Response**. When your
+     response is complete, select **Submit**.
 
-  .. image:: ../../../shared/students/Images/Discussion_add_response.png
-    :width: 500
-    :alt: The **Add A Response** button located between a post and its 
+     .. image:: ../../../shared/students/Images/Discussion_add_response.png
+       :width: 500
+       :alt: The **Add A Response** button located between a post and its 
           responses.
 
- - To add a comment to a response, select inside the **Add a comment** field
-   below the response. When your comment is complete, select **Submit**.
+   * To add a comment to a response, select inside the **Add a comment** field
+     below the response. When your comment is complete, select **Submit**.
 
 *******************************************
 Add a Response or Comment in a Course Unit
@@ -205,11 +205,11 @@ topic inside the course.
 
 #. Add a response or comment.
 
- - To add a response to the post, select **Add A Response**. When your response
-   is complete, select **Submit**.
+   * To add a response to the post, select **Add A Response**. When your
+     response is complete, select **Submit**.
 
- - To add a comment to a response, select inside the **Add a comment** field
-   below the response. When your comment is complete, select **Submit**.
+   * To add a comment to a response, select inside the **Add a comment** field
+     below the response. When your comment is complete, select **Submit**.
 
 .. _Edit or Delete:
 
@@ -233,10 +233,10 @@ cannot edit or delete contributions from other students.
 
 #. Edit or delete the contribution.
 
- - To edit the contribution, select **Edit**, make the changes that you want in
-   the text editor that opens, and then select **Update Response**. For posts,
-   you can change the post topic and the post type as well as the text of the
-   post.
+   * To edit the contribution, select **Edit**, make the changes that you want
+     in the text editor that opens, and then select **Update Response**. For
+     posts, you can change the post topic and the post type as well as the text
+     of the post.
 
- - To delete the contribution, select **Delete**, and then select **OK** in the
-   pop-up confirmation box.
+   * To delete the contribution, select **Delete**, and then select **OK** in
+     the pop-up confirmation box.

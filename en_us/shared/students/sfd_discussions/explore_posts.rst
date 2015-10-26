@@ -43,7 +43,7 @@ you press Enter, the search tries to find:
 
 * Any usernames that are an exact match to your text. A "Show posts by
   {username}" option appears above any posts that have an exact text match at
-  any interaction level. Click the username in the message to read that user's
+  any interaction level. Select the username in the message to read that user's
   posts, responses, and comments. For more information about viewing
   contributions from a specific user, see :ref:`View from Participant`.
 
@@ -104,7 +104,9 @@ You can also use the **Discussion** page to access a discussion in the unit
 where that topic is located. 
 
 #. In the list of topics, select the topic that you want.
+
 #. Select the name of a post to open the post in the right pane.
+
 #. In the right pane, select the name of the discussion topic below the text of
    the post to go to the discussion inside the unit.
 
@@ -152,7 +154,7 @@ View Contributions from a Specific Participant
 
 You can review all the posts, responses, and comments that a specific
 participant has made. You can select other learners, or members of the course
-team. To do this, click the username that appears at the top of any of the
+team. To do this, select the username that appears at the top of any of the
 participant's contributions. A page opens that shows the following information
 about the participant.
 
@@ -170,7 +172,7 @@ about the participant.
   whether the participant created the original post or contributed a response
   or comment to a different post. The list of posts includes the title of the
   post and the username of the participant who created the post. To see the
-  comments or responses on any post, click **View Discussion** below the post
+  comments or responses on any post, select **View Discussion** below the post
   to open the discussion on the **Discussion** page.
 
 .. image:: ../../../shared/students/Images/Disc_UserContributions.png

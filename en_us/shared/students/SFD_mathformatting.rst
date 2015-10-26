@@ -83,20 +83,29 @@ follow these guidelines.
   operations and to make your expression as clear as possible. Use curved
   parentheses (``( )``) only. Do not use brackets (``[ ]``) or braces (``{
   }``).
+
 * **Exponents or superscripts**: Insert a caret (^) before an exponent or
   superscript. If the exponent or superscript includes multiple characters or
   is an expression, surround the expression with parentheses. For example, you
   can enter ``x^n`` or ``x^(n-1)``.
+
 * **Subscripts**: Insert an underscore (_) before a subscript to indicate a
   subscript. If the subscript has multiple characters, type the characters
   without a space. For example, you can enter ``v_IN-v_OUT``. Note, however,
   that subscripts cannot currently include operators or parentheses.
+
 * Avoid whitespace.
+
 * Don't use equal signs (=).
+
 * Because the system is case-sensitive, make sure you use uppercase and
   lowercase letters carefully.
 
 For more information about the types of characters you can use, see below.
+
+.. contents::
+  :local:
+  :depth: 1
 
 .. note:: The edX system accepts both constants and metric affixes. Be 
   careful to distinguish between constants and metric affixes. Constants stand
@@ -122,10 +131,10 @@ Numbers
 
 You can use the following types of numbers:
 
-- Integers: 2520
-- Fractions: 2/3
-- Normal floats: 3.14
-- Floats with no integer part: .98
+* Integers: 2520
+* Fractions: 2/3
+* Normal floats: 3.14
+* Floats with no integer part: .98
 
 The largest number you can use is **1.7977e+308**, which is the largest float
 possible in the Python programming language. 
@@ -141,7 +150,8 @@ very small numbers. For scientific notation, you can type either a caret (^) or
 the letter ``e`` followed by a number to indicate an exponent. You can use both
 positive and negative exponents.
 
-For example, to indicate ``0.012``, you can enter either of the following expressions:
+For example, to indicate ``0.012``, you can enter either of the following
+expressions:
 
 * ``1.2^-2``
 * ``1.2e-2``
@@ -350,6 +360,7 @@ You can use the following functions:
 
 * Factorials: Enter factorials as ``fact(3)`` or ``factorial(3)``. You must use
   integers. For example, you can't enter ``fact(1.5)``.
+
 * A "parallel resistors" operator (``||``). For example, ``1 || 2`` represents
   the resistance of a pair of parallel resistors (of resistance 1 and 2 ohms),
   evaluating to 2/3 (ohms).

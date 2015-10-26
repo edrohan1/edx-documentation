@@ -53,7 +53,8 @@ looks like the following image. You can select the image to enlarge it.
 
 .. image:: ../../../shared/students/Images/DiscussionHomeCallouts.png
    :width: 800 
-   :alt: Discussion home page with a topics pane on the left side and "How to use edX discussions" pane on the right.
+   :alt: Discussion home page with a topics pane on the left side and "How to
+       use edX discussions" pane on the right.
 
 =============
 List of Posts
@@ -65,7 +66,7 @@ use to sort discussions by topic, status, and activity.
 
 The list of posts includes the following elements.
 
-* The drop-down Discussion list. When you click this list, you can see all of
+* The drop-down Discussion list. When you select this list, you can see all of
   the topics in the course discussions, or you can view only the posts that you
   are following. For more information about discussion topics, see
   :ref:`Discussion Topics`. For more information about following posts, see
@@ -105,8 +106,8 @@ The list of posts includes the following elements.
 Right Pane
 ===========
 
-When you click the **Discussion** tab, the right pane opens to a home page that
-lists ways that you can interact with posts. Each of these interactions is
+When you select the **Discussion** tab, the right pane opens to a home page
+that lists ways that you can interact with posts. Each of these interactions is
 covered later in this topic. For more information, see the following sections:
 
 * :ref:`Explore Posts`
@@ -122,17 +123,19 @@ box.
   :width: 400
   :alt: The right pane with the Receive Updates check box circled
 
-After you click the title of a post, the right pane shows the original post,
+After you select the title of a post, the right pane shows the original post,
 responses to the post, and comments on responses. The page is formatted to help
 distinguish between posts, responses, and comments:
 
 * The post and its title appear at the top of the page.
+
 * Responses appear indented and with a white background below the original
   post.
+
 * Comments on a response appear with a gray background below the response. The
   font size for comments is smaller than the font size for responses.
 
-These elements appear in the image below. You can click the image to enlarge
+These elements appear in the image below. You can select the image to enlarge
 it.
 
 .. image:: ../../../shared/students/Images/Disc_PostsEtc.png
@@ -151,22 +154,27 @@ contribution. (For more information, see :ref:`Provide Feedback`.)
 The icons that you see may include the following:
 
 * A plus sign (+), together with the number of votes the post has received.
-  Click this icon to vote for the post or response. For more information, see
+  Select this icon to vote for the post or response. For more information, see
   :ref:`Vote for Posts or Responses`.
-* A star (posts only). Click this icon if you want to follow the post. For more
-  information, see :ref:`Follow Posts`. 
+
+* A star (posts only). Select this icon if you want to follow the post. For
+  more information, see :ref:`Follow Posts`.
+
 * A check mark (responses only). For questions, the student who posted the
   question, or discussion team member, can use this icon to indicate that the
   response is correct. For more information, see :ref:`Answer Questions`.
-* An ellipsis, or "more", icon (...). When you click this icon, you may see
+
+* An ellipsis, or "more", icon (...). When you select this icon, you may see
   several additional options:
 
   * **Edit**. This option is only visible if you are the author of the post,
     response, or comment. You can change the text of your contribution, or, for
     posts, you can change the type of post. For more information, see
     :ref:`Edit or Delete`.
+  
   * **Delete**. This option is only visible if you are the author of the post,
     response, or comment. For more information, see :ref:`Edit or Delete`.
+  
   * **Report**. You can use this option to report an inappropriate post,
     response, or comment. For more information, see :ref:`Report Discussion
     Misuse`.

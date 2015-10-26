@@ -61,7 +61,7 @@ the course. You can also add it to your own Google calendar.
   :alt: A Google calendar in a course.
 
 By default, the view that opens in the course calendar is the view that the
-course team set. You can change the view by clicking the **Week**, **Month**,
+course team set. You can change the view by selecting the **Week**, **Month**,
 or **Agenda** tabs in the upper-right corner.
 
 When you view the calendar in your course, the dates and times on the calendar
@@ -82,7 +82,7 @@ account. The course information appears together with your own information.
   :alt: A course calendar integrated with a personal Google calendar.
 
 To add the course calendar to your own calendar, view the course calendar in
-the course, and then click the **Google Calendar** icon in the lower-right
+the course, and then select the **Google Calendar** icon in the lower-right
 corner of the course calendar.
 
 For more information about Google calendars, see the `Google Calendar

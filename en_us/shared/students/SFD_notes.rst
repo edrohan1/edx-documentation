@@ -169,6 +169,7 @@ To edit a note, follow these steps.
 To delete a note or highlight, follow these steps.
 
 #. Move your cursor over the highlighted text until your note appears.
+
 #. When the note appears, select the trash icon in the upper right corner to
    delete the note or highlight.
 
@@ -201,8 +202,10 @@ To search your notes, follow these steps.
 
 #. At the top of any courseware page, select **Notes** to open the **Notes**
    page.
+
 #. In the upper right corner of the page, type a search term in the **Search
    notes for** field.
+
 #. Select the magnifying glass icon or press Enter.
 
 .. _SFD SN Keyboard Shortcuts:
@@ -219,9 +222,11 @@ You can use keyboard shortcuts to create, edit, and delete your notes.
 
   * Internet Explorer and Firefox support caret browsing by default. To enable
     caret browsing in Firefox, press F7.
+  
   * Safari supports caret browsing when VoiceOver is turned on. For more
     information about VoiceOver, see the `Apple website
     <https://www.apple.com/accessibility/osx/voiceover/>`_.
+  
   * Chrome does not support caret browsing.
 
 Before you use the following keyboard shortcuts, you must make sure that notes
@@ -235,14 +240,20 @@ Create a Note Using the Keyboard
 To create a note using keyboard shortcuts, follow these steps.
 
 #. Enable caret browsing mode.
+
 #. Use the arrow keys to move the cursor to the left of the text that you want
    to highlight.
+
 #. Hold down Shift + right arrow to select the text.
+
 #. Press Ctrl + Shift + right bracket (``]``) to open the note editor. The
    note editor opens with the cursor in the text field.
+
 #. In the text field, type your note.
+
 #. To add tags, press Tab to move to the tag field, and then add
    your tags.
+
 #. To save your note, press Tab to move to the **Save** button, and then press
    Enter.
 
@@ -257,12 +268,15 @@ Edit or Delete a Note Using the Keyboard
 To edit or delete a note, follow these steps.
 
 #. Press Tab to move focus to the note that you want.
+
 #. Press Ctrl + spacebar or Ctrl + Enter to open the note editor.
+
 #. Press Tab to move the cursor to the text field or the tag field, and then
    make the changes that you want.
+
 #. Press Tab to move to the **Edit**, **Delete**, or **Close** button, and
    then press Enter.
 
-To close the note editor without making any changes, press Esc.
+To close the note editor without making any changes, press **Esc**.
 
 .. include:: ../../links/links.rst

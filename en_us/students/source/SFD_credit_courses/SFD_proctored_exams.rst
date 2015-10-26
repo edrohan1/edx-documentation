@@ -32,7 +32,8 @@ cheating or using a false identity. Your course might require you to take
 and pass at least one proctored exam to be eligible to purchase academic
 credit.
 
-Proctored exams are indicated in the courseware with a pencil icon and a "Proctored Option Available" label.
+Proctored exams are indicated in the courseware with a pencil icon and a
+"Proctored Option Available" label.
 
 .. image:: /Images/Proctoring_PencilIcon.png
  :width: 200
@@ -332,7 +333,8 @@ Preview and confirm the photo of your ID.
 If you are satisfied that the photo ID picture is clear and legible, select
 the checkbox and select **Confirm ID Photo**. 
 
-If you are not satisfied that picture is clear, select **Retake ID Photo** to try again.
+If you are not satisfied that picture is clear, select **Retake ID Photo** to
+try again.
 
 .. image:: /Images/Proctoring_SS_ConfirmIDPhoto.png
  :width: 600
@@ -420,7 +422,8 @@ that your proctored session has started. This means that you have successfully
 set up the proctoring software, and it has started recording a proctoring
 session.
 
-.. important:: You must not close this browser page until you have finished your exam.
+.. important:: You must not close this browser page until you have finished
+  your exam.
 
 .. image:: /Images/Proctoring_SS_SessionHasStarted.png
  :width: 600
@@ -448,18 +451,19 @@ Practice exams let you follow the steps to set up the proctoring software,
 perform the required identity and environment scans, and experience taking an
 exam with online proctoring, but your proctoring session is not reviewed.
 
-.. note:: Practice exams do not affect your grade or your eligibility for credit.
+.. note:: Practice exams do not affect your grade or your eligibility for
+  credit.
 
 
 To take a practice proctored exam, follow these steps.
 
 #. In the courseware, open the practice exam.
 
-  .. image:: /Images/Proctoring_ChooseProctoringPractice.png
-   :width: 600
-   :alt: Practice exams let you take an example ungraded exam with proctoring.
+   .. image:: /Images/Proctoring_ChooseProctoringPractice.png
+    :width: 600
+    :alt: Practice exams let you take an example ungraded exam with proctoring.
 
-2. On the practice exam page, select **Yes, I want to take this practice exam
+#. On the practice exam page, select **Yes, I want to take this practice exam
    with online proctoring**.
 
    .. note:: Remember that your proctoring session is not reviewed, and that
@@ -470,13 +474,13 @@ To take a practice proctored exam, follow these steps.
    to enter it later, when you are prompted to do so during the proctoring
    software setup.
 
-  .. image:: /Images/Proctoring_YouHaveChosenToTake.png  
-   :width: 600
-   :alt: After you agree to take an exam with proctoring you receive a unique
+   .. image:: /Images/Proctoring_YouHaveChosenToTake.png  
+    :width: 600
+    :alt: After you agree to take an exam with proctoring you receive a unique
          exam code on the "You Have Chosen to Take a Proctored Exam" page.
 
 
-3. Click **Select exam code** to select the entire exam code, then use
+#. Select **Select exam code** to select the entire exam code, then use
    keyboard combinations such at ``Ctrl + C`` or ``command + C`` to copy the
    code to your clipboard.
 
@@ -515,11 +519,11 @@ To take a practice proctored exam, follow these steps.
    exam. Because this is a practice exam, your proctoring session is not
    reviewed. For a practice exam, you will see two possible results.
 
-  *  **Your practice proctored exam is complete** -- This status indicates
+   * **Your practice proctored exam is complete** -- This status indicates
      that you completed the exam and experienced no issues with the
      proctoring software.
 
-  *  **Your practice proctored exam failed** -- This status indicates that you
+   * **Your practice proctored exam failed** -- This status indicates that you
      completed the exam, but there were issues with the proctoring software.
      Some parts of the proctoring checks might have failed, or the
      proctoring software window might have been closed before the exam ended.
@@ -583,7 +587,7 @@ To take a proctored exam, follow these steps.
     :alt: After you agree to take an exam with proctoring you receive a unique
           exam code on the "You Have Chosen to Take a Proctored Exam" page.
   
-#. Click **Select exam code** to select the entire exam code, then use
+#. Select **Select exam code** to select the entire exam code, then use
    keyboard combinations such at ``Ctrl + C`` or ``command + C`` to copy the
    code to your clipboard.
 

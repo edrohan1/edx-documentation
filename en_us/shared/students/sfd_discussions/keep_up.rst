@@ -58,8 +58,8 @@ image.
 Sort by Votes
 ==================
 
-You can also sort the list of posts by number of votes. To do this, click the
-sorting list in the upper-right corner of the list of posts, and then click
+You can also sort the list of posts by number of votes. To do this, select the
+sorting list in the upper-right corner of the list of posts, and then select
 **by most votes**.
 
 If you sort by most votes, the number of votes that the post has received
@@ -78,7 +78,7 @@ Receive Daily Digests
 
 You have the option to receive an email message each day that summarizes
 discussion activity for the posts you are following. To receive this daily
-digest, click **Discussion** to go to the discussions home page, and then
+digest, select **Discussion** to go to the discussions home page, and then
 select the **Receive updates** check box in the right pane.
 
 .. image:: ../../../shared/students/Images/Disc_RecUpdatesBox.png
