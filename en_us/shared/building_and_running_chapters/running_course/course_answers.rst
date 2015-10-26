@@ -14,7 +14,7 @@ download an answer distribution report for course problems.
  :depth: 1
 
 Student answer distribution data, including both charts and reports, is also
-available from edX Insights. For more information, see `Using edX Insights`_.
+available from edX Insights. For more information, see :ref:`insights:Using edX Insights`.
 
 .. _Student_Answer_Submission:
 
@@ -212,7 +212,7 @@ the :ref:`unique identifier<find_URL>` of the problem that you want to
 investigate.
 
 To download a report of the answers submitted for a problem by every student,
-follow these steps.
+called the Student State report, follow these steps.
 
 #. View the live version of your course.
 
@@ -520,7 +520,3 @@ toolbar and then select the type of chart you want.
 You can adjust your course content based on common student mistakes. While most
 students in this example selected the correct answer, the number of incorrect
 answer(s) can guide future changes to the courseware.
-
-
-.. _Using edX Insights: http://edx-insights.readthedocs.org/en/latest/
-.. _Problem Interaction Events: http://edx.readthedocs.org/projects/devdata/en/latest/internal_data_formats/tracking_logs.html#problem
