@@ -10,7 +10,7 @@ course teams can use an XBlock in courses running on an instance of the
 Open edX platform, both of the following tasks must be completed.
 
 * A system administrator installs the XBlock in the instance of the Open edX
-   platform.
+  platform.
 
 * Course teams enable the XBlock in the specific courses that will use it.
 
@@ -26,7 +26,7 @@ To install an XBlock, follow these steps.
 
    .. code-block:: bash
 
-     pip install -e git+https://github.com/oppia/xblock.git@cd5479ee1138abfa278857d0113a45c2d05a983f#egg=oppia-xblock
+     pip install -e git+https://github.com/oppia/xblock.git@9f6b95b7eb7dbabb96b77198a3202604f96adf65#egg=oppia-xblock
 
 The course teams that want to include components that use the XBlock can then
 enable the XBlock for their courses. To do so, they add the name specified in
